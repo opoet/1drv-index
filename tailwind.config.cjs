@@ -78,7 +78,7 @@ module.exports = {
     require("tailwindcss-animate"),
     iconsPlugin({
       // Select the icon collections you want to use
-      collections: getIconCollections(["icon-park-outline"]),
+      collections: getIconCollections(["lucide"]),
     }),
   ],
 }
